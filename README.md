@@ -1,6 +1,6 @@
 # 📊 Empirical Analysis of Search Algorithms
 
-> Practical laboratory activity for the course **Basic Data Structures (EDB1)** at UFRN/IMD  
+> Practical laboratory activity for the course **Basic Data Structures (EDB1)** at IMD/UFRN  
 > Professor: Eiji Adachi
 
 ---
