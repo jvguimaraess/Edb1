@@ -1,7 +1,7 @@
 # EDB1 — Basic Data Structures
 
 > **IMD/UFRN** | Professor Eiji Adachi  
-> Bachelor of Information Technology — João Victor Guimarães
+> Bachelor of Information Technology — João Vitor Guimarães
 
 ---
 
